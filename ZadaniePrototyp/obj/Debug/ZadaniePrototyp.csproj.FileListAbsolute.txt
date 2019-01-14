@@ -1,0 +1,7 @@
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Prototyp\ZadaniePrototyp\ZadaniePrototyp\obj\Debug\ZadaniePrototyp.csprojAssemblyReference.cache
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Prototyp\ZadaniePrototyp\ZadaniePrototyp\obj\Debug\ZadaniePrototyp.csproj.CoreCompileInputs.cache
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Prototyp\ZadaniePrototyp\ZadaniePrototyp\bin\Debug\ZadaniePrototyp.exe.config
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Prototyp\ZadaniePrototyp\ZadaniePrototyp\bin\Debug\ZadaniePrototyp.exe
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Prototyp\ZadaniePrototyp\ZadaniePrototyp\bin\Debug\ZadaniePrototyp.pdb
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Prototyp\ZadaniePrototyp\ZadaniePrototyp\obj\Debug\ZadaniePrototyp.exe
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Prototyp\ZadaniePrototyp\ZadaniePrototyp\obj\Debug\ZadaniePrototyp.pdb
